@@ -1,0 +1,51 @@
+:host {
+  display: block;
+}
+
+.button {
+  border-radius: 6px;
+  border-width: 0px;
+}
+
+.primary {
+  background-color: #017aff;
+  color: #ffffff;
+}
+
+.secundary {
+  background-color: #ffffff;
+  color: #232526;
+}
+
+.disabled {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: #797979;
+}
+
+
+.large {
+  width: 157px;
+  height: 28px;
+  font-family: Helvetica;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.small {
+  width: 100px;
+  height: 20px;
+  font-family: SFProText;
+  font-size: 13px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: normal;
+  text-align: center;
+}
+
